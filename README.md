@@ -1,4 +1,4 @@
-# My Portfolio: Rahman Umardi (RhmnDev14)
+# Hello! I'm Rahman Umardi 👋
 
 Building software with passion, precision, and purpose.
 
