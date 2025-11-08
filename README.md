@@ -70,8 +70,6 @@ Beberapa sertifikasi yang telah saya peroleh:
 * [Sertifikat Belajar Linux dari Nol - ID Networkers](https://portfolio-updated-rahman-umardi.vercel.app/certificates)
 * [Sertifikat Jaringan Komputer Dasar - ID Networkers](https://portfolio-updated-rahman-umardi.vercel.app/certificates)
 
-*(Catatan: Anda dapat mengganti tautan di bagian Sertifikasi dengan tautan langsung ke berkas sertifikat jika Anda mengunggahnya ke repositori GitHub ini.)*
 
 ---
 
-© 2025 Rahman Umardi · Built with Next.js
